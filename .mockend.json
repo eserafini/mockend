@@ -5,7 +5,7 @@
       "category_id": { "string": {} },
       "slug": { "string": {} }
     },
-    "Categories": {
+    "Category": {
         "title": { "string": {} }
       }
   }
