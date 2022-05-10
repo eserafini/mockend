@@ -1,7 +1,8 @@
 {
     "Product": {
-      "id": { "string": {} },
-      "title": "Teclado Mecânico",
-      "price": 350
+      "title": { "string": {} },
+      "comments": {
+        "hasMany": "Comment"
+      }
     }
   }
