@@ -1,8 +1,6 @@
 {
     "Product": {
       "title": { "string": {} },
-      "comments": {
-        "hasMany": "Comment"
-      }
+      "price": { "int": { "min": 0, "max": 1000000 } }
     }
   }
